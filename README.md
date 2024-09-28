@@ -1,4 +1,4 @@
-![logo](https://github.com/Kumarshivam99557/Kumarshivam99557/blob/main/Pink%20and%20Purple%20Gradient%20Playful%20Illustrative%20Computer%20Class%20Google%20Classroom%20Header.png)
+![logo](https://github.com/Kumarshivam99557/Kumarshivam99557/blob/main/Black%20and%20Purple%20Gradient%20Neon%20Futuristic%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kumar Shivam</h1>
 <h3 align="center">Enthusiastic Full-Stack Developer from India, building dynamic and scalable web applications.</h3>
 
