@@ -1,18 +1,18 @@
 ![logo](https://github.com/Kumarshivam99557/Kumarshivam99557/blob/main/Black%20and%20Purple%20Gradient%20Neon%20Futuristic%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kumar Shivam</h1>
-<h3 align="center">Enthusiastic Full-Stack Developer from India, building dynamic and scalable web applications.</h3>
+<h3 align="center">I am a passionate Data Engineer specializing in Azure-based data solutions. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and cloud-based solutions. I am a Databricks Certified Spark Developer and continuously learning to stay up-to-date with the latest advancements in data engineering</h3>
 
 - 🔭 I’m currently working on [Style-Sphere](https://github.com/Kumarshivam99557/Style-Sphere)
 
-- 🌱 I’m currently learning **Next.js & Data Structure**
+- 🌱 I’m currently learning **Data Engineering and Cloud Services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kumarshivam99557](https://github.com/Kumarshivam99557)
 
-- 💬 Ask me about **Front-End & Back-end**
+- 💬 Ask me about **Data Engineering and Cloud Services**
 
 - 📫 How to reach me **thecode.shivam@gmail.com**
 
-- ⚡ Fun fact **My code and I both enjoy debugging—it's like a detective story where we’re always the heroes!**
+- ⚡ Fun fact **Building data pipelines feels like solving a mystery—debugging is just me being the detective, ensuring data flows seamlessly through the cloud!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
