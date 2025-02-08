@@ -1,4 +1,4 @@
-![logo](https://github.com/Kumarshivam99557/Kumarshivam99557/blob/main/Black%20and%20Purple%20Gradient%20Neon%20Futuristic%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/Kumarshivam99557/Kumarshivam99557/blob/main/Data%20Purple%20Gradient%20Neon%20Futuristic%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kumar Shivam</h1>
 <h3 align="center">I am a passionate Data Engineer specializing in Azure-based data solutions. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and cloud-based solutions. I am a Databricks Certified Spark Developer and continuously learning to stay up-to-date with the latest advancements in data engineering</h3>
 
